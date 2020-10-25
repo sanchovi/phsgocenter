@@ -161,14 +161,13 @@ sup {
 }
 
 a {
-  vertical-align: middle;
-  color: #f39c12;
+  color: #fcb913;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #0f7864;
+  color: #f39c12;
   text-decoration: underline;
 }
 
@@ -4319,6 +4318,8 @@ input[type="button"].btn-block {
 
 .tab-content > .active {
   display: block;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .navbar {
